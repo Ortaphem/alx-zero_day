@@ -1,1 +1,1 @@
-My first readme. Tips
+finally i made my fist repository
